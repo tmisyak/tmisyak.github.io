@@ -16,7 +16,7 @@ body {
     border:4px dashed #9370DB;
 }
 
-.assignment img {
+.assignment img:hover {
     border:4px dashed white;
 }
 
