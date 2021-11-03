@@ -16,6 +16,10 @@ body {
     border:4px dashed #9370DB;
 }
 
+.assignment img {
+    border:4px dashed white;
+}
+
 h1 {
     color: darkorchid;
     text-align: center;
@@ -24,4 +28,8 @@ h1 {
 a {
     text-decoration:none;
     color:#9370DB;
+}
+
+a:hover {
+    color:white;
 }
