@@ -13,7 +13,7 @@ body {
 .assignment img {
     width:200px;
     padding:10px;
-    border:4px dashed #9370DB;
+    border:4px solid #9370DB;
 }
 
 .assignment img:hover {
